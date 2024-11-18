@@ -1,8 +1,9 @@
 ### Hi there 👋
 My name is Atreya and I am BME and Applied Math student at CWRU
-- 🌱 Interested in Biotech and want to learn about computer vision
-- 👯 I’m always looking to collaborate on projects involving ML/AI
-- 🙏🏾 My interests are in computer vision and its intersections with healthcare
-- Languages Known: Java, Python, R, MatLab (always looking to learn more)
+- 🌱 My focus is on machine learning for medical imaging, specifically making models more interpretable
+- 👯 Always looking to join projects in and out of medical imaging
+- 🙏🏾 Best way to reach me: axs2220 At case.edu
+- 
+Currently part of INVent Labs (CCIPD) @CWRU
 
 
