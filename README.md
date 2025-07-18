@@ -5,7 +5,7 @@ My name is Atreya and I am a BME Graduate Student at Northwestern University
 - 🙏🏾 Best way to reach me: enx9647 At u.northwestern.edu
   
 Currently part of AIMP-Lab @NU Dept of Radiology
-Formerly part of/ Collaborate with INVent Labs (CCIPD) @CWRU/Emory
+\ Formerly part of/ Collaborate with INVent Labs (CCIPD) @CWRU/Emory
 
 Note: My commits are usually slow cause I forget to commit them from my local env, if you are interested in a project I am working on but do not see any code on the repo - please email me ; I will upload it :)
 
